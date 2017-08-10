@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/res/merged/debug/xml/opener_paths.xml",
+        "source": "/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/res/xml/opener_paths.xml"
+    }
+]

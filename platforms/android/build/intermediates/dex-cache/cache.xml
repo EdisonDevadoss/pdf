@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_84869f8db96359db307e0408ac3498977d758ca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d747543b750af0c07053f0b377e2a9340ce3bf2c">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_6567c84a2fe4f43092961bee53f3dae9298d7a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_5e5efea3b27e1cdc071dcafc4f0555263bbed73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_b4d99d7d6419edf79d494493d2940059e80eb179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_8a251829b7b323a9eaa211741b5e67ea25a916f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_6aa35bb3cd32082558e6b233b408d6ccf00671d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_a3b224e4ea9ca195e5065a6b164822095f1a1429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/code-artist/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/code-artist/Desktop/IonicLatestWorks/pdfmaker/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_3e77ba777d920785d9710a1eaeadd97388c59674.jar" />
+    </item>
+
+</items>
