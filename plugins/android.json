@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        },
+        "cordova-plugin-file-opener2": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "io.ionic.pdfmaker"
+        }
+    }
+}
